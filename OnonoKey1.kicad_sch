@@ -804,12 +804,6 @@
 		(uuid "00f0d498-5240-4f2c-8906-4d43e304e35e")
 	)
 	(junction
-		(at 87.63 135.89)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0444be49-0d92-44bf-ba14-5843637fb213")
-	)
-	(junction
 		(at 115.57 116.84)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -820,6 +814,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0aa2589c-cd89-4c24-9288-a3c6386e5d6e")
+	)
+	(junction
+		(at 120.65 139.7)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0d1c7a23-a32d-4c13-9451-bf719c5d6866")
 	)
 	(junction
 		(at 59.69 116.84)
@@ -838,6 +838,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1ccac101-b21e-497b-98b5-664f7bb0f44a")
+	)
+	(junction
+		(at 102.87 137.16)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "23737b9c-eeed-4250-8ffb-1c878d9f1f85")
 	)
 	(junction
 		(at 21.59 90.17)
@@ -918,12 +924,6 @@
 		(uuid "4bc86abe-5a58-4ea8-80a0-d788c9c7c014")
 	)
 	(junction
-		(at 102.87 148.59)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5341678c-831d-4987-bc7f-24fa6d164d55")
-	)
-	(junction
 		(at 63.5 33.02)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -970,12 +970,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "63aecf9f-1081-4331-b993-831f4f24af0c")
-	)
-	(junction
-		(at 120.65 156.21)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "63d38e78-327b-468e-80b1-b00803d1031b")
 	)
 	(junction
 		(at 35.56 90.17)
@@ -1036,6 +1030,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8de4f4bd-ad3f-4c68-8444-d07a73588b5f")
+	)
+	(junction
+		(at 87.63 135.89)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "93b5967e-f73d-430c-89ca-7c2eb4c1ae59")
 	)
 	(junction
 		(at 101.6 116.84)
@@ -1265,26 +1265,6 @@
 	)
 	(wire
 		(pts
-			(xy 87.63 148.59) (xy 102.87 148.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "013afeb7-07ab-48d7-8d08-aaf3ae8ed784")
-	)
-	(wire
-		(pts
-			(xy 87.63 148.59) (xy 87.63 135.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "021fd9f6-8402-4f1e-a93f-7b7f02b2bdb6")
-	)
-	(wire
-		(pts
 			(xy 91.44 90.17) (xy 91.44 109.22)
 		)
 		(stroke
@@ -1385,6 +1365,16 @@
 	)
 	(wire
 		(pts
+			(xy 120.65 139.7) (xy 128.27 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1dcf3bf6-5246-4545-a0ed-31f9687a9843")
+	)
+	(wire
+		(pts
 			(xy 105.41 33.02) (xy 105.41 52.07)
 		)
 		(stroke
@@ -1425,7 +1415,7 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 109.22) (xy 91.44 140.97)
+			(xy 91.44 109.22) (xy 91.44 129.54)
 		)
 		(stroke
 			(width 0)
@@ -1452,6 +1442,16 @@
 			(type default)
 		)
 		(uuid "3316aeb1-36f9-4253-9c6d-d1fa23679597")
+	)
+	(wire
+		(pts
+			(xy 120.65 139.7) (xy 102.87 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3796b5ba-2d31-4c6d-ab5b-2800a11eabf8")
 	)
 	(wire
 		(pts
@@ -1645,26 +1645,6 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 156.21) (xy 120.65 156.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "59d911a5-52a2-4aea-ab5d-d8fcfd6bc85a")
-	)
-	(wire
-		(pts
-			(xy 102.87 148.59) (xy 102.87 156.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5da41926-c6af-4122-b492-65ba4e8848fa")
-	)
-	(wire
-		(pts
 			(xy 175.26 60.96) (xy 175.26 53.34)
 		)
 		(stroke
@@ -1715,16 +1695,6 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 119.38) (xy 110.49 148.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6cb0b633-8378-4804-a22d-0b0c001d31ad")
-	)
-	(wire
-		(pts
 			(xy 115.57 40.64) (xy 128.27 40.64)
 		)
 		(stroke
@@ -1732,6 +1702,16 @@
 			(type default)
 		)
 		(uuid "6e1d0191-1f9e-49f4-96e3-074ab4665f9f")
+	)
+	(wire
+		(pts
+			(xy 110.49 119.38) (xy 110.49 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6f40d651-d952-4d42-b80c-ac02f6fc178d")
 	)
 	(wire
 		(pts
@@ -1842,16 +1822,6 @@
 			(type default)
 		)
 		(uuid "929c93a0-79d7-4b0f-a8d0-40401e5c3c6a")
-	)
-	(wire
-		(pts
-			(xy 120.65 156.21) (xy 133.35 156.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "92f67780-9bea-4310-8bb7-b6185086be9e")
 	)
 	(wire
 		(pts
@@ -2012,6 +1982,16 @@
 			(type default)
 		)
 		(uuid "c2b32d3e-5f15-4baa-b77f-913e70e990b0")
+	)
+	(wire
+		(pts
+			(xy 87.63 137.16) (xy 87.63 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c49ae826-a13a-4d30-9a17-855f3ae83be9")
 	)
 	(wire
 		(pts
@@ -2185,6 +2165,16 @@
 	)
 	(wire
 		(pts
+			(xy 102.87 139.7) (xy 102.87 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ec071b84-3073-44dc-bfd3-9dfbceb782a1")
+	)
+	(wire
+		(pts
 			(xy 77.47 20.32) (xy 77.47 33.02)
 		)
 		(stroke
@@ -2195,7 +2185,7 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 140.97) (xy 92.71 140.97)
+			(xy 91.44 129.54) (xy 92.71 129.54)
 		)
 		(stroke
 			(width 0)
@@ -2242,6 +2232,16 @@
 			(type default)
 		)
 		(uuid "f1b8fc4a-244e-4c9b-b38e-b39ad9f419ce")
+	)
+	(wire
+		(pts
+			(xy 102.87 137.16) (xy 87.63 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f213d880-5bc8-42c8-8710-d685b6c0b107")
 	)
 	(wire
 		(pts
@@ -2415,7 +2415,7 @@
 		(uuid "7a8b146f-747a-45f8-9a2d-68e18b647baa")
 	)
 	(label "ROW5"
-		(at 133.35 156.21 0)
+		(at 128.27 139.7 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2605,7 +2605,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
 			(at 82.55 46.99 0)
 			(effects
 				(font
@@ -2761,7 +2761,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
 			(at 68.58 66.04 0)
 			(effects
 				(font
@@ -2829,7 +2829,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
 			(at 40.64 123.19 0)
 			(effects
 				(font
@@ -3337,7 +3337,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
 			(at 54.61 104.14 0)
 			(effects
 				(font
@@ -3493,7 +3493,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
 			(at 40.64 85.09 0)
 			(effects
 				(font
@@ -3560,7 +3560,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
 			(at 26.67 123.19 0)
 			(effects
 				(font
@@ -3628,7 +3628,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
 			(at 40.64 46.99 0)
 			(effects
 				(font
@@ -3783,7 +3783,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
 			(at 26.67 66.04 0)
 			(effects
 				(font
@@ -3939,7 +3939,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
 			(at 54.61 66.04 0)
 			(effects
 				(font
@@ -4007,7 +4007,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
 			(at 110.49 46.99 0)
 			(effects
 				(font
@@ -4163,7 +4163,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
 			(at 68.58 123.19 0)
 			(effects
 				(font
@@ -4295,7 +4295,7 @@
 	)
 	(symbol
 		(lib_id "Scotto:Placeholder_Switch")
-		(at 97.79 140.97 0)
+		(at 97.79 129.54 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4304,7 +4304,7 @@
 		(fields_autoplaced yes)
 		(uuid "40bf25af-0bae-4f69-aa22-6fc1aad5ae9a")
 		(property "Reference" "SW55"
-			(at 97.79 133.35 0)
+			(at 97.79 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4312,15 +4312,15 @@
 			)
 		)
 		(property "Value" "Switch"
-			(at 97.79 135.89 0)
+			(at 97.79 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
-			(at 97.79 135.89 0)
+		(property "Footprint" "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
+			(at 97.79 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4329,7 +4329,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 97.79 135.89 0)
+			(at 97.79 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4338,7 +4338,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 97.79 140.97 0)
+			(at 97.79 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4387,7 +4387,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
 			(at 54.61 123.19 0)
 			(effects
 				(font
@@ -4631,7 +4631,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
 			(at 26.67 27.94 0)
 			(effects
 				(font
@@ -4699,7 +4699,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
 			(at 68.58 27.94 0)
 			(effects
 				(font
@@ -4854,7 +4854,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
 			(at 26.67 104.14 0)
 			(effects
 				(font
@@ -4922,7 +4922,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
 			(at 54.61 85.09 0)
 			(effects
 				(font
@@ -4990,7 +4990,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
 			(at 82.55 85.09 0)
 			(effects
 				(font
@@ -5146,7 +5146,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
 			(at 82.55 66.04 0)
 			(effects
 				(font
@@ -5190,16 +5190,15 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 102.87 144.78 90)
+		(at 102.87 133.35 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "607f09f1-391e-4ef7-9d13-997a6d53851e")
 		(property "Reference" "D41"
-			(at 105.41 143.5099 90)
+			(at 105.41 132.0799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5208,7 +5207,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 105.41 146.0499 90)
+			(at 105.41 120.6499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5217,7 +5216,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
-			(at 102.87 144.78 0)
+			(at 102.87 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5226,7 +5225,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 102.87 144.78 0)
+			(at 102.87 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5235,7 +5234,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 102.87 144.78 0)
+			(at 102.87 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5244,7 +5243,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 102.87 144.78 0)
+			(at 102.87 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5253,7 +5252,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 102.87 144.78 0)
+			(at 102.87 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5302,7 +5301,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
 			(at 96.52 66.04 0)
 			(effects
 				(font
@@ -5986,7 +5985,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
 			(at 68.58 46.99 0)
 			(effects
 				(font
@@ -6054,7 +6053,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
 			(at 68.58 104.14 0)
 			(effects
 				(font
@@ -6122,7 +6121,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
 			(at 110.49 66.04 0)
 			(effects
 				(font
@@ -6190,7 +6189,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
 			(at 96.52 46.99 0)
 			(effects
 				(font
@@ -6234,7 +6233,7 @@
 	)
 	(symbol
 		(lib_id "Scotto:Placeholder_Switch")
-		(at 115.57 148.59 0)
+		(at 115.57 132.08 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6243,7 +6242,7 @@
 		(fields_autoplaced yes)
 		(uuid "732bd63e-4607-4bf1-86a9-cc1268f27309")
 		(property "Reference" "SW56"
-			(at 115.57 140.97 0)
+			(at 115.57 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6251,15 +6250,15 @@
 			)
 		)
 		(property "Value" "Switch"
-			(at 115.57 143.51 0)
+			(at 115.57 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
-			(at 115.57 143.51 0)
+		(property "Footprint" "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
+			(at 115.57 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6268,7 +6267,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 115.57 143.51 0)
+			(at 115.57 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6277,7 +6276,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 115.57 148.59 0)
+			(at 115.57 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6326,7 +6325,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
 			(at 40.64 66.04 0)
 			(effects
 				(font
@@ -6394,7 +6393,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
 			(at 110.49 104.14 0)
 			(effects
 				(font
@@ -6725,7 +6724,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
 			(at 26.67 46.99 0)
 			(effects
 				(font
@@ -6793,7 +6792,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
 			(at 96.52 104.14 0)
 			(effects
 				(font
@@ -6949,7 +6948,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
 			(at 96.52 85.09 0)
 			(effects
 				(font
@@ -7281,7 +7280,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
 			(at 40.64 27.94 0)
 			(effects
 				(font
@@ -7437,7 +7436,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
 			(at 54.61 27.94 0)
 			(effects
 				(font
@@ -7593,7 +7592,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
 			(at 54.61 46.99 0)
 			(effects
 				(font
@@ -7837,7 +7836,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
 			(at 68.58 85.09 0)
 			(effects
 				(font
@@ -7904,7 +7903,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
 			(at 82.55 27.94 0)
 			(effects
 				(font
@@ -8278,7 +8277,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
 			(at 26.67 85.09 0)
 			(effects
 				(font
@@ -8498,7 +8497,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 120.65 152.4 90)
+		(at 120.65 135.89 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8507,7 +8506,7 @@
 		(fields_autoplaced yes)
 		(uuid "d8376ebb-3916-474c-898b-88710f05dfb3")
 		(property "Reference" "D42"
-			(at 123.19 151.1299 90)
+			(at 123.19 134.6199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8516,7 +8515,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 123.19 153.6699 90)
+			(at 123.19 137.1599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8525,7 +8524,7 @@
 			)
 		)
 		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
-			(at 120.65 152.4 0)
+			(at 120.65 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8534,7 +8533,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 120.65 152.4 0)
+			(at 120.65 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8543,7 +8542,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 120.65 152.4 0)
+			(at 120.65 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8552,7 +8551,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 120.65 152.4 0)
+			(at 120.65 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8561,7 +8560,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 120.65 152.4 0)
+			(at 120.65 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8610,7 +8609,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
 			(at 82.55 104.14 0)
 			(effects
 				(font
@@ -8678,7 +8677,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
 			(at 110.49 85.09 0)
 			(effects
 				(font
@@ -8834,7 +8833,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
 			(at 40.64 104.14 0)
 			(effects
 				(font
@@ -8902,7 +8901,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
 			(at 82.55 123.19 0)
 			(effects
 				(font
@@ -9146,7 +9145,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
 			(at 96.52 27.94 0)
 			(effects
 				(font
@@ -9214,7 +9213,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
+		(property "Footprint" "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
 			(at 110.49 27.94 0)
 			(effects
 				(font
