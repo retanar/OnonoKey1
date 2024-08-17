@@ -32,9 +32,6 @@
 			(layer "F.SilkS"
 				(type "Top Silk Screen")
 			)
-			(layer "F.Paste"
-				(type "Top Solder Paste")
-			)
 			(layer "F.Mask"
 				(type "Top Solder Mask")
 				(thickness 0.01)
@@ -58,9 +55,6 @@
 				(type "Bottom Solder Mask")
 				(thickness 0.01)
 			)
-			(layer "B.Paste"
-				(type "Bottom Solder Paste")
-			)
 			(layer "B.SilkS"
 				(type "Bottom Silk Screen")
 			)
@@ -71,10 +65,10 @@
 		(allow_soldermask_bridges_in_footprints no)
 		(grid_origin 79.7325 48)
 		(pcbplotparams
-			(layerselection 0x00010fc_ffffffff)
+			(layerselection 0x00010c0_ffffffff)
 			(plot_on_all_layers_selection 0x0000000_00000000)
 			(disableapertmacros no)
-			(usegerberextensions no)
+			(usegerberextensions yes)
 			(usegerberattributes yes)
 			(usegerberadvancedattributes yes)
 			(creategerberjobfile yes)
@@ -100,12 +94,12 @@
 			(plotfptext yes)
 			(plotinvisibletext no)
 			(sketchpadsonfab no)
-			(subtractmaskfromsilk no)
+			(subtractmaskfromsilk yes)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "gerbers/")
 		)
 	)
 	(net 0 "")
@@ -19453,7 +19447,7 @@
 		)
 		(fp_line
 			(start 0 2.540001)
-			(end -2.286 2.540001)
+			(end -2.286 2.540002)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -19917,7 +19911,7 @@
 		)
 		(fp_line
 			(start 6.35 3.81)
-			(end 8.889999 3.81)
+			(end 8.889998 3.81)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -19956,7 +19950,7 @@
 			(uuid "bb7cde27-2a1a-466f-8ddb-c6461b6764a9")
 		)
 		(fp_line
-			(start 8.889999 3.81)
+			(start 8.889998 3.81)
 			(end 8.89 1.27)
 			(stroke
 				(width 0.12)
@@ -20337,7 +20331,7 @@
 			(uuid "0ad5dae2-1cb3-4598-be7b-8097788987ae")
 		)
 		(pad "2" smd rect
-			(at 7.560001 -2.54 355)
+			(at 7.560002 -2.54 355)
 			(size 2.55 2.5)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(net 63 "Net-(D41-A)")
@@ -25850,7 +25844,7 @@
 		)
 		(fp_arc
 			(start 2.464162 0.61604)
-			(mid 1.563148 2.002042)
+			(mid 1.563148 2.002043)
 			(end 0 2.54)
 			(stroke
 				(width 0.15)
@@ -26223,7 +26217,7 @@
 			(uuid "41b32e2a-5d40-471a-8c09-790e168be4c1")
 		)
 		(fp_line
-			(start 6.35 3.809999)
+			(start 6.35 3.809998)
 			(end 8.89 3.81)
 			(stroke
 				(width 0.12)
@@ -26284,7 +26278,7 @@
 		)
 		(fp_arc
 			(start 2.464162 0.61604)
-			(mid 1.563148 2.002042)
+			(mid 1.563148 2.002043)
 			(end 0 2.54)
 			(stroke
 				(width 0.12)
@@ -26315,7 +26309,7 @@
 			(uuid "4741e947-2f8e-465d-b878-cc7c0d206a8d")
 		)
 		(fp_line
-			(start -7.620001 -3.81)
+			(start -7.620002 -3.81)
 			(end -5.08 -3.81)
 			(stroke
 				(width 0.12)
@@ -26326,7 +26320,7 @@
 		)
 		(fp_line
 			(start -7.62 -6.35)
-			(end -7.620001 -3.81)
+			(end -7.620002 -3.81)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -46304,7 +46298,7 @@
 		(descr "Diode, 1N4148 (recommended), DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode 1N4148 DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D21"
-			(at 3.81 2.12 360)
+			(at 3.81 2.12 0)
 			(layer "B.SilkS")
 			(hide yes)
 			(uuid "e0e98093-1bff-46cb-9c24-5e3c7f1076f1")
@@ -46317,7 +46311,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 3.81 -2.12 360)
+			(at 3.81 -2.12 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "fc8d4f70-4af9-4db5-b950-8a1c189fe708")
@@ -47268,7 +47262,7 @@
 		(descr "Diode, 1N4148 (recommended), DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode 1N4148 DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D12"
-			(at 3.81 2.12 360)
+			(at 3.81 2.12 0)
 			(layer "B.SilkS")
 			(hide yes)
 			(uuid "5e185ae5-3460-4805-ba51-50faa3075b08")
@@ -47281,7 +47275,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 3.81 -2.12 360)
+			(at 3.81 -2.12 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "2d283f22-7281-446e-9d77-0bd0f1d58e94")
@@ -50642,7 +50636,7 @@
 		(descr "Diode, 1N4148 (recommended), DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode 1N4148 DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D28"
-			(at 3.81 2.12 360)
+			(at 3.81 2.12 0)
 			(layer "B.SilkS")
 			(hide yes)
 			(uuid "53db4494-a871-4de7-9e92-a879da914447")
@@ -50655,7 +50649,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 3.81 -2.12 360)
+			(at 3.81 -2.12 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "98dc388c-fc40-4929-b80a-503efcac7732")
