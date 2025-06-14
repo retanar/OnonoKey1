@@ -20020,7 +20020,7 @@
 		)
 		(fp_line
 			(start 6.35 3.81)
-			(end 8.889997 3.81)
+			(end 8.889996 3.81)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -20059,7 +20059,7 @@
 			(uuid "bb7cde27-2a1a-466f-8ddb-c6461b6764a9")
 		)
 		(fp_line
-			(start 8.889997 3.81)
+			(start 8.889996 3.81)
 			(end 8.89 1.27)
 			(stroke
 				(width 0.12)
@@ -21600,7 +21600,7 @@
 		(property "Reference" "REF**"
 			(at 0 -3.35 0)
 			(layer "F.SilkS")
-			(uuid "84eb6262-f555-432e-9697-dec6d13676d7")
+			(uuid "44c253e5-61f3-4f52-ad75-d0bc28e5e7a1")
 			(effects
 				(font
 					(size 1 1)
@@ -21611,7 +21611,7 @@
 		(property "Value" "MountingHole_2.7mm_M2.5_DIN965"
 			(at 0 3.35 0)
 			(layer "F.Fab")
-			(uuid "b0f13802-8a91-4921-9395-657a48a44d98")
+			(uuid "6cc131bc-afbf-4df2-a527-c23732f49e56")
 			(effects
 				(font
 					(size 1 1)
@@ -21668,7 +21668,7 @@
 			)
 			(fill none)
 			(layer "Cmts.User")
-			(uuid "e5951854-2583-49d3-84b4-7714d0d90f0b")
+			(uuid "648f5d3a-f88d-4a4b-9d6c-3c9d0833c6dd")
 		)
 		(fp_circle
 			(center 0 0)
@@ -21679,12 +21679,12 @@
 			)
 			(fill none)
 			(layer "F.CrtYd")
-			(uuid "e41892e5-311a-46a5-9e29-438898b038a3")
+			(uuid "ea39ba5f-7a5e-4fe9-a034-fca8411a9c24")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
 			(layer "F.Fab")
-			(uuid "c510f3a3-ee07-4c8b-9ffc-5792bd20239f")
+			(uuid "af2b8761-9c5b-4b28-abc0-6d2ffd674448")
 			(effects
 				(font
 					(size 1 1)
@@ -21697,7 +21697,7 @@
 			(size 2.7 2.7)
 			(drill 2.7)
 			(layers "*.Cu" "*.Mask")
-			(uuid "f913a583-d813-4203-b787-0a21e4b7bf32")
+			(uuid "50439615-52e1-4793-95fe-3bea3d27614e")
 		)
 	)
 	(footprint "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
@@ -26062,7 +26062,7 @@
 		)
 		(fp_arc
 			(start 2.464162 0.61604)
-			(mid 1.563149 2.002043)
+			(mid 1.563149 2.002044)
 			(end 0 2.54)
 			(stroke
 				(width 0.15)
@@ -26496,7 +26496,7 @@
 		)
 		(fp_arc
 			(start 2.464162 0.61604)
-			(mid 1.563149 2.002043)
+			(mid 1.563149 2.002044)
 			(end 0 2.54)
 			(stroke
 				(width 0.12)
