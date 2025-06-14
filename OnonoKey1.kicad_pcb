@@ -168,7 +168,7 @@
 	(net 63 "Net-(D41-A)")
 	(net 64 "Net-(D42-A)")
 	(net 65 "/COL0")
-	(footprint "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
+	(footprint "used-footprints:Kailh_socket_MX_optional_reversible_1u"
 		(layer "F.Cu")
 		(uuid "01385eee-45aa-4bd8-85d3-87280c730c9b")
 		(at 41.6325 80.05)
@@ -1201,7 +1201,7 @@
 			(uuid "d8594467-5a08-46fb-9d9d-0e36e3897396")
 		)
 	)
-	(footprint "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
+	(footprint "used-footprints:Kailh_socket_MX_optional_reversible_1u"
 		(layer "F.Cu")
 		(uuid "06658529-e7c0-448c-8590-b365ed6cfd27")
 		(at 155.9325 124.2)
@@ -2234,7 +2234,7 @@
 			(uuid "9db6d1d3-b072-4966-9be9-dcb20ee648a4")
 		)
 	)
-	(footprint "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
+	(footprint "used-footprints:Kailh_socket_MX_optional_reversible_1u"
 		(layer "F.Cu")
 		(uuid "08aa479f-1b77-4684-b6f6-58786bbc4fb9")
 		(at 60.6825 80.05)
@@ -3267,7 +3267,7 @@
 			(uuid "df6878f6-0a49-444e-bc4d-4aa96e295d93")
 		)
 	)
-	(footprint "MountingHole:MountingHole_2.2mm_M2"
+	(footprint "used-footprints:MountingHole_2.2mm_M2"
 		(layer "F.Cu")
 		(uuid "0eeb4710-911a-4458-b19e-c27ba2d11a2b")
 		(at 146.4325 133.8)
@@ -3376,7 +3376,7 @@
 			(uuid "ff3e865d-5e07-4531-9a03-8f3f60a6478d")
 		)
 	)
-	(footprint "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
+	(footprint "used-footprints:Kailh_socket_MX_optional_reversible_1u"
 		(layer "F.Cu")
 		(uuid "11df31a4-470e-46a7-98c7-35f59aa3d2e1")
 		(at 98.7825 64.05)
@@ -4409,7 +4409,7 @@
 			(uuid "3a05027b-ef03-4377-9ce5-e5254d454b38")
 		)
 	)
-	(footprint "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
+	(footprint "used-footprints:Kailh_socket_MX_optional_reversible_1u"
 		(layer "F.Cu")
 		(uuid "1e017c9b-0ac7-4612-a51f-5fe6bf93f5fc")
 		(at 79.7325 124.2)
@@ -5442,7 +5442,7 @@
 			(uuid "773afc0f-5bd8-4fc4-adec-290d53a4b65c")
 		)
 	)
-	(footprint "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
+	(footprint "used-footprints:Kailh_socket_MX_optional_reversible_1u"
 		(layer "F.Cu")
 		(uuid "1f3bf5b3-6936-4d3d-9df5-ada06c92c577")
 		(at 98.7825 83.1)
@@ -6475,7 +6475,7 @@
 			(uuid "5f44fb41-2290-4c64-a9c4-3b0c6431f845")
 		)
 	)
-	(footprint "MountingHole:MountingHole_2.2mm_M2"
+	(footprint "used-footprints:MountingHole_2.2mm_M2"
 		(layer "F.Cu")
 		(uuid "2087a6db-caa2-4a5a-892a-13966fdfb2fa")
 		(at 51.2075 70.525)
@@ -6584,7 +6584,7 @@
 			(uuid "31b3b937-013e-4ec5-939f-e77a4e6d7720")
 		)
 	)
-	(footprint "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
+	(footprint "used-footprints:Kailh_socket_MX_optional_reversible_1u"
 		(layer "F.Cu")
 		(uuid "22d8d785-3efa-4d47-a815-d77b1d040de8")
 		(at 79.7325 86.1)
@@ -7617,7 +7617,7 @@
 			(uuid "5fa0e61e-65b6-4ba9-8dd0-691efeea028d")
 		)
 	)
-	(footprint "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
+	(footprint "used-footprints:Kailh_socket_MX_optional_reversible_1u"
 		(layer "F.Cu")
 		(uuid "26d304f8-c0e5-4885-b3e1-7cdf8f9bfb30")
 		(at 98.7825 121.2)
@@ -8650,7 +8650,7 @@
 			(uuid "acd7e2af-33b8-4e66-b3cf-bcc7aaa65e9e")
 		)
 	)
-	(footprint "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
+	(footprint "used-footprints:Kailh_socket_MX_optional_reversible_1u"
 		(layer "F.Cu")
 		(uuid "2db98c65-49ab-483a-8440-bc9d023a6ec2")
 		(at 41.6325 99.1)
@@ -9683,7 +9683,7 @@
 			(uuid "dd026c35-f057-4399-a8c6-0f057a1c0c9b")
 		)
 	)
-	(footprint "MountingHole:MountingHole_2.2mm_M2"
+	(footprint "used-footprints:MountingHole_2.2mm_M2"
 		(layer "F.Cu")
 		(uuid "31df9397-b5fd-4f6e-b549-50f231697240")
 		(at 146.3825 57.525)
@@ -9792,7 +9792,7 @@
 			(uuid "7fb08645-737a-4df6-af76-5fffc4185bc8")
 		)
 	)
-	(footprint "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
+	(footprint "used-footprints:Kailh_socket_MX_optional_reversible_1u"
 		(layer "F.Cu")
 		(uuid "3a9d75bd-5b02-4e86-ae72-97cd0b7bfdf9")
 		(at 41.6325 156.25)
@@ -10825,7 +10825,7 @@
 			(uuid "3f239c15-eb00-4400-94c2-e73d53099744")
 		)
 	)
-	(footprint "MountingHole:MountingHole_2.2mm_M2"
+	(footprint "used-footprints:MountingHole_2.2mm_M2"
 		(layer "F.Cu")
 		(uuid "402f95df-fbc9-4fea-b200-d044e23b0861")
 		(at 51.1825 146.725)
@@ -10934,7 +10934,7 @@
 			(uuid "61cae549-117c-40d7-8e70-6fddac5506a2")
 		)
 	)
-	(footprint "MountingHole:MountingHole_2.7mm_M2.5_DIN965"
+	(footprint "used-footprints:MountingHole_2.7mm_M2.5_DIN965"
 		(layer "F.Cu")
 		(uuid "42821a77-dfc7-424c-9d50-9b877f3327d1")
 		(at 60.5325 45.05)
@@ -11043,7 +11043,7 @@
 			(uuid "f913a583-d813-4203-b787-0a21e4b7bf32")
 		)
 	)
-	(footprint "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
+	(footprint "used-footprints:Kailh_socket_MX_optional_reversible_1u"
 		(layer "F.Cu")
 		(uuid "42dd8c2a-3971-4f65-99d5-539f33a90b6f")
 		(at 60.6825 118.15)
@@ -12076,7 +12076,7 @@
 			(uuid "a9e0e86b-c1d3-458c-8baa-f0b345558258")
 		)
 	)
-	(footprint "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
+	(footprint "used-footprints:Kailh_socket_MX_optional_reversible_1u"
 		(layer "F.Cu")
 		(uuid "4a8da1a6-b8e7-49ba-a696-9998cb0ca95c")
 		(at 79.7325 67.05)
@@ -13109,7 +13109,7 @@
 			(uuid "14b5fe93-aa41-4d35-a569-7e20672a8eb2")
 		)
 	)
-	(footprint "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
+	(footprint "used-footprints:Kailh_socket_MX_optional_reversible_1u"
 		(layer "F.Cu")
 		(uuid "4b3645f7-40b2-4c4a-880e-289372680be5")
 		(at 79.7325 105.15)
@@ -14142,7 +14142,7 @@
 			(uuid "d4b0dbc2-0119-4cdf-a973-7a386059feba")
 		)
 	)
-	(footprint "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
+	(footprint "used-footprints:Kailh_socket_MX_optional_reversible_1u"
 		(layer "F.Cu")
 		(uuid "55061900-e73f-42e3-9000-c7d49f124a5f")
 		(at 155.9325 48)
@@ -15175,7 +15175,7 @@
 			(uuid "7ff8194b-6ba3-492c-b557-6d752638c503")
 		)
 	)
-	(footprint "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
+	(footprint "used-footprints:Kailh_socket_MX_optional_reversible_1u"
 		(layer "F.Cu")
 		(uuid "59e22eda-8284-4ea0-be2e-bd3c384a4e52")
 		(at 98.7825 140.25)
@@ -16208,7 +16208,7 @@
 			(uuid "0349f8a4-a582-4fbc-8010-8a7ae9781e5e")
 		)
 	)
-	(footprint "MountingHole:MountingHole_2.2mm_M2"
+	(footprint "used-footprints:MountingHole_2.2mm_M2"
 		(layer "F.Cu")
 		(uuid "5bee5d80-ebac-446e-9b8d-bc02c0c614da")
 		(at 107.7825 130.725)
@@ -16317,7 +16317,7 @@
 			(uuid "a6e602da-c87e-4bdc-8666-11c1845b0590")
 		)
 	)
-	(footprint "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
+	(footprint "used-footprints:Kailh_socket_MX_optional_reversible_1u"
 		(layer "F.Cu")
 		(uuid "5e1d7163-8d85-4935-a736-014e3f534af9")
 		(at 60.6825 61)
@@ -17350,7 +17350,7 @@
 			(uuid "f2c85ce2-3e09-4efd-82b0-7f51cb5e6006")
 		)
 	)
-	(footprint "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
+	(footprint "used-footprints:Kailh_socket_MX_optional_reversible_1u"
 		(layer "F.Cu")
 		(uuid "62788f8d-837e-40a7-8cd8-68c1059627a1")
 		(at 136.8825 124.2)
@@ -18383,7 +18383,7 @@
 			(uuid "0e5c7072-3a51-4b7e-943b-1aad326f277d")
 		)
 	)
-	(footprint "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
+	(footprint "used-footprints:Kailh_socket_MX_optional_reversible_1u"
 		(layer "F.Cu")
 		(uuid "636ff828-aa51-48b8-b46a-35cbcc5d7912")
 		(at 155.9325 86.1)
@@ -19416,7 +19416,7 @@
 			(uuid "a5aa1ca1-6df6-4620-b894-d77ec36fcaf3")
 		)
 	)
-	(footprint "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
+	(footprint "used-footprints:Kailh_socket_MX_optional_reversible_1u"
 		(layer "F.Cu")
 		(uuid "6614182c-f637-4b9d-b00a-4b21468cc3d8")
 		(at 137.8325 145.5 -5)
@@ -20449,7 +20449,7 @@
 			(uuid "c6b98a01-bb26-4bc0-b8fc-5dec4d22cae9")
 		)
 	)
-	(footprint "MountingHole:MountingHole_2.2mm_M2"
+	(footprint "used-footprints:MountingHole_2.2mm_M2"
 		(layer "F.Cu")
 		(uuid "6c275640-7afd-469a-be34-a03d7e78a507")
 		(at 69.7325 108.625)
@@ -20558,7 +20558,7 @@
 			(uuid "5f31ef3f-7a44-4201-98b6-f62f9d46819a")
 		)
 	)
-	(footprint "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
+	(footprint "used-footprints:Kailh_socket_MX_optional_reversible_1u"
 		(layer "F.Cu")
 		(uuid "7393ad2e-a886-4bc9-a0ca-0b87665779e0")
 		(at 136.8825 105.15)
@@ -21591,7 +21591,7 @@
 			(uuid "6f89aa47-4424-40d2-a2be-723f5e0f4d35")
 		)
 	)
-	(footprint "MountingHole:MountingHole_2.7mm_M2.5_DIN965"
+	(footprint "used-footprints:MountingHole_2.7mm_M2.5_DIN965"
 		(layer "F.Cu")
 		(uuid "787c6141-7d95-436a-9818-a38f841d0433")
 		(at 60.5325 36.1)
@@ -21700,7 +21700,7 @@
 			(uuid "50439615-52e1-4793-95fe-3bea3d27614e")
 		)
 	)
-	(footprint "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
+	(footprint "used-footprints:Kailh_socket_MX_optional_reversible_1u"
 		(layer "F.Cu")
 		(uuid "7b161114-2d65-4465-8a1d-26e203f286ae")
 		(at 98.7825 45)
@@ -22733,7 +22733,7 @@
 			(uuid "dbdfe8dc-17d3-4a0e-a665-89bb4f96bbc6")
 		)
 	)
-	(footprint "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
+	(footprint "used-footprints:Kailh_socket_MX_optional_reversible_1u"
 		(layer "F.Cu")
 		(uuid "7d1f9443-6b3d-4b7b-ba5c-c8ff55186b06")
 		(at 41.6325 137.2)
@@ -23766,7 +23766,7 @@
 			(uuid "f27b1561-dbee-42d7-ac8c-9464707f2295")
 		)
 	)
-	(footprint "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
+	(footprint "used-footprints:Kailh_socket_MX_optional_reversible_1u"
 		(layer "F.Cu")
 		(uuid "898cfc04-c414-45ad-8985-065d11e93b9b")
 		(at 117.8325 124.2)
@@ -24799,7 +24799,7 @@
 			(uuid "a05726b3-a7bb-41bb-a1f2-44d53a8ba59a")
 		)
 	)
-	(footprint "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
+	(footprint "used-footprints:Kailh_socket_MX_optional_reversible_1u"
 		(layer "F.Cu")
 		(uuid "8c412e06-f076-48f3-9b75-05217dab2a69")
 		(at 98.7825 102.15)
@@ -25832,7 +25832,7 @@
 			(uuid "429ef628-129c-4a8a-b8fc-0619292564a4")
 		)
 	)
-	(footprint "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
+	(footprint "used-footprints:Kailh_socket_MX_optional_reversible_1u"
 		(layer "F.Cu")
 		(uuid "9b1de8fb-f0d2-472d-90f8-e2a28a6a92bd")
 		(at 157.87594 148.75 -10)
@@ -26865,7 +26865,7 @@
 			(uuid "14bd7d58-fd24-4c9c-b7aa-567b0ab992b8")
 		)
 	)
-	(footprint "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
+	(footprint "used-footprints:Kailh_socket_MX_optional_reversible_1u"
 		(layer "F.Cu")
 		(uuid "9b2418af-b179-4751-af25-742541be009c")
 		(at 60.6825 137.2)
@@ -27898,7 +27898,7 @@
 			(uuid "22ec8001-9698-4d74-bd95-509b925f5cea")
 		)
 	)
-	(footprint "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
+	(footprint "used-footprints:Kailh_socket_MX_optional_reversible_1u"
 		(layer "F.Cu")
 		(uuid "a9188b3a-1298-4655-901c-1f4712be01ed")
 		(at 117.8325 48)
@@ -28931,7 +28931,7 @@
 			(uuid "9c0adb50-cce5-4597-8c0c-7ddac232e1d0")
 		)
 	)
-	(footprint "ScottoKeebs_MCU:RP2040_Zero"
+	(footprint "used-footprints:RP2040_Zero"
 		(layer "F.Cu")
 		(uuid "ad308c14-0c47-4a73-b198-f97d482943ea")
 		(at 56.5225 40.57 90)
@@ -29324,7 +29324,7 @@
 			)
 		)
 	)
-	(footprint "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
+	(footprint "used-footprints:Kailh_socket_MX_optional_reversible_1u"
 		(layer "F.Cu")
 		(uuid "b48c8d7b-a8a3-4f2d-98a6-055f7e4ba70d")
 		(at 41.6325 118.15)
@@ -30357,7 +30357,7 @@
 			(uuid "d50c2faa-d902-4147-b973-36559df405e0")
 		)
 	)
-	(footprint "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
+	(footprint "used-footprints:Kailh_socket_MX_optional_reversible_1u"
 		(layer "F.Cu")
 		(uuid "b8ea4411-c382-4765-bf45-a61b67b21666")
 		(at 117.8325 86.1)
@@ -31390,7 +31390,7 @@
 			(uuid "f4ba172d-bc6d-42ab-b4a0-79d8365d3614")
 		)
 	)
-	(footprint "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
+	(footprint "used-footprints:Kailh_socket_MX_optional_reversible_1u"
 		(layer "F.Cu")
 		(uuid "ba4ca0c9-0486-4fd3-889b-89c9f8852c03")
 		(at 155.9325 67.05)
@@ -32423,7 +32423,7 @@
 			(uuid "8ba0cbd3-e7e1-4dc1-a262-99ab7e285e4c")
 		)
 	)
-	(footprint "MountingHole:MountingHole_2.2mm_M2"
+	(footprint "used-footprints:MountingHole_2.2mm_M2"
 		(layer "F.Cu")
 		(uuid "c1e46239-d3d8-4451-9b79-e508459c19c0")
 		(at 89.7575 54.525)
@@ -32532,7 +32532,7 @@
 			(uuid "bab46729-e65c-4dd6-8a74-2b4157db767e")
 		)
 	)
-	(footprint "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
+	(footprint "used-footprints:Kailh_socket_MX_optional_reversible_1u"
 		(layer "F.Cu")
 		(uuid "d18f5808-2a74-4ab9-8af0-7e3905e2146f")
 		(at 41.6325 61)
@@ -33565,7 +33565,7 @@
 			(uuid "4432b05c-0da4-4033-9940-69656b9526a0")
 		)
 	)
-	(footprint "MountingHole:MountingHole_2.2mm_M2"
+	(footprint "used-footprints:MountingHole_2.2mm_M2"
 		(layer "F.Cu")
 		(uuid "d1e68796-d834-4af5-8634-3b6b089ea4a7")
 		(at 127.3325 95.625)
@@ -33674,7 +33674,7 @@
 			(uuid "ef830f9c-147e-4c55-8ba3-0994cb760796")
 		)
 	)
-	(footprint "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
+	(footprint "used-footprints:Kailh_socket_MX_optional_reversible_1u"
 		(layer "F.Cu")
 		(uuid "d1f840ef-da66-44bb-962e-5ed5acd655a9")
 		(at 79.7325 143.25)
@@ -34707,7 +34707,7 @@
 			(uuid "d8a78e77-f65d-4af6-8369-3739863bde89")
 		)
 	)
-	(footprint "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
+	(footprint "used-footprints:Kailh_socket_MX_optional_reversible_1u"
 		(layer "F.Cu")
 		(uuid "d667db6f-5d05-41a8-b63c-9855b426985d")
 		(at 136.8825 86.1)
@@ -35740,7 +35740,7 @@
 			(uuid "9057d24d-d425-4ff5-a44f-d0bdec5c5ed2")
 		)
 	)
-	(footprint "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
+	(footprint "used-footprints:Kailh_socket_MX_optional_reversible_1u"
 		(layer "F.Cu")
 		(uuid "d967bb02-ca19-40b1-9a9d-b94fb3c28b40")
 		(at 117.8325 67.05)
@@ -36773,7 +36773,7 @@
 			(uuid "11e4c441-1a90-40ac-91d6-2816c40634d3")
 		)
 	)
-	(footprint "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
+	(footprint "used-footprints:Kailh_socket_MX_optional_reversible_1u"
 		(layer "F.Cu")
 		(uuid "da5cc3a4-3ac5-4ebf-a7d1-a4341ee46be2")
 		(at 155.9325 105.15)
@@ -37806,7 +37806,7 @@
 			(uuid "79c32853-def5-4723-be8a-af0968c2ca18")
 		)
 	)
-	(footprint "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
+	(footprint "used-footprints:Kailh_socket_MX_optional_reversible_1u"
 		(layer "F.Cu")
 		(uuid "dc22e29a-ac51-4b8f-91dc-f5575448f335")
 		(at 60.6825 99.1)
@@ -38839,7 +38839,7 @@
 			(uuid "5e05addb-ba45-4b8d-b8ad-e13e89687c34")
 		)
 	)
-	(footprint "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
+	(footprint "used-footprints:Kailh_socket_MX_optional_reversible_1u"
 		(layer "F.Cu")
 		(uuid "e58e0679-cab4-4507-bc90-37af68d53eda")
 		(at 117.8325 105.15)
@@ -39872,7 +39872,7 @@
 			(uuid "d606b8a6-ba9b-434b-a833-d54841a534e3")
 		)
 	)
-	(footprint "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
+	(footprint "used-footprints:Kailh_socket_MX_optional_reversible_1u"
 		(layer "F.Cu")
 		(uuid "e9610842-de70-46c9-af9d-70b99b8ba983")
 		(at 136.8825 48)
@@ -40905,7 +40905,7 @@
 			(uuid "dc5cef61-a8cc-42f8-88d8-eb4c2aa51360")
 		)
 	)
-	(footprint "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
+	(footprint "used-footprints:Kailh_socket_MX_optional_reversible_1u"
 		(layer "F.Cu")
 		(uuid "eccbbfa8-061b-4f40-8a1d-78301f8a23cd")
 		(at 136.8825 67.05)
@@ -41938,7 +41938,7 @@
 			(uuid "7fd82210-3d4b-4e34-99fe-32091a3e8734")
 		)
 	)
-	(footprint "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
+	(footprint "used-footprints:Kailh_socket_MX_optional_reversible_1u"
 		(layer "F.Cu")
 		(uuid "f50f825a-21bc-4af2-ab47-7819e915d2d2")
 		(at 60.6825 156.25)
@@ -42971,7 +42971,7 @@
 			(uuid "1644a55d-fb17-4463-b8c1-9929e42e3a3a")
 		)
 	)
-	(footprint "ScottoKeebs_Components:TRRS_PJ-320A"
+	(footprint "used-footprints:TRRS_PJ-320A"
 		(layer "F.Cu")
 		(uuid "f8c01a35-14b0-465d-ad57-2a54387dd7aa")
 		(at 165.3825 34.95 -90)
@@ -43221,7 +43221,7 @@
 			)
 		)
 	)
-	(footprint "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
+	(footprint "used-footprints:Kailh_socket_MX_optional_reversible_1u"
 		(layer "F.Cu")
 		(uuid "fc3b86dd-914b-4e2a-bfb1-0a3609a7483e")
 		(at 79.7325 48)
@@ -44254,7 +44254,7 @@
 			(uuid "6ca815cb-9c23-4a37-bc69-3f5bfb33d5bb")
 		)
 	)
-	(footprint "Daprice_Keyswitches:Kailh_socket_MX_optional_reversible_1u"
+	(footprint "used-footprints:Kailh_socket_MX_optional_reversible_1u"
 		(layer "F.Cu")
 		(uuid "fd515fee-3582-41f1-ab50-dbcc2234a7c3")
 		(at 117.8325 143.25)
@@ -45287,7 +45287,7 @@
 			(uuid "230954b9-7dee-4c80-a3a6-f02c88ae8f62")
 		)
 	)
-	(footprint "ScottoKeebs_Components:Diode_DO-35"
+	(footprint "used-footprints:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "064dafdf-6831-4598-8083-837f99df908d")
 		(at 123.7675 134.9 180)
@@ -45528,7 +45528,7 @@
 			)
 		)
 	)
-	(footprint "ScottoKeebs_Components:Diode_DO-35"
+	(footprint "used-footprints:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "08314016-82a9-49b3-b36d-1fe690617f7e")
 		(at 47.6025 128.85 180)
@@ -45769,7 +45769,7 @@
 			)
 		)
 	)
-	(footprint "ScottoKeebs_Components:Diode_DO-35"
+	(footprint "used-footprints:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "11295b7f-3ff4-4614-b0c5-22b9a4854f01")
 		(at 66.7075 52.675 180)
@@ -46010,7 +46010,7 @@
 			)
 		)
 	)
-	(footprint "ScottoKeebs_Components:Diode_DO-35"
+	(footprint "used-footprints:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "15903071-8eb3-4692-8f1e-75daf178da3c")
 		(at 156.155383 139.975 -10)
@@ -46251,7 +46251,7 @@
 			)
 		)
 	)
-	(footprint "ScottoKeebs_Components:TRRS_PJ-320A"
+	(footprint "used-footprints:TRRS_PJ-320A"
 		(layer "B.Cu")
 		(uuid "1a14dc05-e6a5-43ab-a32b-ea2abedb354f")
 		(at 165.3825 33.05 90)
@@ -46509,7 +46509,7 @@
 			)
 		)
 	)
-	(footprint "ScottoKeebs_Components:Diode_DO-35"
+	(footprint "used-footprints:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "1c9ee4a7-cf3c-4ee5-94b0-d8440f3dc6b4")
 		(at 151.9225 77.775)
@@ -46750,7 +46750,7 @@
 			)
 		)
 	)
-	(footprint "ScottoKeebs_Components:Diode_DO-35"
+	(footprint "used-footprints:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "1de46bfa-f024-4f6f-962b-b4c8660b27ec")
 		(at 123.8175 39.675 180)
@@ -46991,7 +46991,7 @@
 			)
 		)
 	)
-	(footprint "ScottoKeebs_Components:Diode_DO-35"
+	(footprint "used-footprints:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "1ebb2fde-fcfb-44ac-b0e4-b87fe17f76eb")
 		(at 47.6175 71.725 180)
@@ -47232,7 +47232,7 @@
 			)
 		)
 	)
-	(footprint "ScottoKeebs_Components:Diode_DO-35"
+	(footprint "used-footprints:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "1f141f50-1377-4123-b92a-e0fcb2cc2ce0")
 		(at 123.5075 96.8 180)
@@ -47473,7 +47473,7 @@
 			)
 		)
 	)
-	(footprint "ScottoKeebs_Components:Diode_DO-35"
+	(footprint "used-footprints:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "285c235f-d044-43b8-8ca9-814bc40d1dc7")
 		(at 151.9125 58.725)
@@ -47714,7 +47714,7 @@
 			)
 		)
 	)
-	(footprint "ScottoKeebs_Components:Diode_DO-35"
+	(footprint "used-footprints:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "2d8ba5d8-8402-4d84-ae3b-b3a186891dcb")
 		(at 85.7425 58.725 180)
@@ -47955,7 +47955,7 @@
 			)
 		)
 	)
-	(footprint "ScottoKeebs_Components:Diode_DO-35"
+	(footprint "used-footprints:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "3073392d-9fa2-4691-a9fc-19bfd37032bf")
 		(at 142.8675 39.675 180)
@@ -48196,7 +48196,7 @@
 			)
 		)
 	)
-	(footprint "ScottoKeebs_Components:Diode_DO-35"
+	(footprint "used-footprints:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "3308925d-8f38-4155-8281-17f0cef97df8")
 		(at 142.5575 58.725 180)
@@ -48437,7 +48437,7 @@
 			)
 		)
 	)
-	(footprint "ScottoKeebs_Components:Diode_DO-35"
+	(footprint "used-footprints:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "3594a223-4b9a-4d25-8ad1-e91d48df6000")
 		(at 104.7675 36.65 180)
@@ -48678,7 +48678,7 @@
 			)
 		)
 	)
-	(footprint "ScottoKeebs_Components:Diode_DO-35"
+	(footprint "used-footprints:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "372000ea-0069-4dfb-b785-05b45bf45c2e")
 		(at 151.8625 115.9)
@@ -48919,7 +48919,7 @@
 			)
 		)
 	)
-	(footprint "ScottoKeebs_Components:Diode_DO-35"
+	(footprint "used-footprints:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "40d4f8e8-74b0-4921-bd21-5ec799ad3653")
 		(at 104.7175 93.8 180)
@@ -49160,7 +49160,7 @@
 			)
 		)
 	)
-	(footprint "ScottoKeebs_Components:Diode_DO-35"
+	(footprint "used-footprints:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "40e8db9d-a06c-4610-8ef2-0f35eb27d2c0")
 		(at 85.7175 115.85 180)
@@ -49401,7 +49401,7 @@
 			)
 		)
 	)
-	(footprint "ScottoKeebs_Components:Diode_DO-35"
+	(footprint "used-footprints:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "49735c67-dd5b-4a31-bf42-834dbe34e238")
 		(at 142.8175 77.775 180)
@@ -49642,7 +49642,7 @@
 			)
 		)
 	)
-	(footprint "ScottoKeebs_Components:Diode_DO-35"
+	(footprint "used-footprints:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "4f1cf236-fb03-4634-8636-b35f6da5e6de")
 		(at 104.7325 74.775 180)
@@ -49883,7 +49883,7 @@
 			)
 		)
 	)
-	(footprint "ScottoKeebs_Components:Diode_DO-35"
+	(footprint "used-footprints:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "587ce1be-7a5f-4e23-aeee-931e54d287cb")
 		(at 103.9775 131.9 180)
@@ -50124,7 +50124,7 @@
 			)
 		)
 	)
-	(footprint "ScottoKeebs_Components:Diode_DO-35"
+	(footprint "used-footprints:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "5fb74c68-e9fc-49c0-a733-6aeaaec54497")
 		(at 68.3175 71.85 180)
@@ -50365,7 +50365,7 @@
 			)
 		)
 	)
-	(footprint "ScottoKeebs_Components:Diode_DO-35"
+	(footprint "used-footprints:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "6bb8fc5d-0399-4c81-bb5e-48e6ede212de")
 		(at 47.5925 90.8 180)
@@ -50606,7 +50606,7 @@
 			)
 		)
 	)
-	(footprint "ScottoKeebs_Components:Diode_DO-35"
+	(footprint "used-footprints:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "7c947173-1678-4238-803c-91d2ae1d8e2b")
 		(at 123.7675 58.725 180)
@@ -50847,7 +50847,7 @@
 			)
 		)
 	)
-	(footprint "ScottoKeebs_Components:Diode_DO-35"
+	(footprint "used-footprints:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "843c2edd-d629-49c1-895d-2f6c093946be")
 		(at 151.8475 96.825)
@@ -51088,7 +51088,7 @@
 			)
 		)
 	)
-	(footprint "ScottoKeebs_Components:Diode_DO-35"
+	(footprint "used-footprints:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "86de5616-d9d5-434c-a058-01ec37140205")
 		(at 47.5925 109.825 180)
@@ -51329,7 +51329,7 @@
 			)
 		)
 	)
-	(footprint "ScottoKeebs_Components:Diode_DO-35"
+	(footprint "used-footprints:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "9e7934ec-8d98-4626-a119-adc5ac68bcb5")
 		(at 85.7175 39.65 180)
@@ -51570,7 +51570,7 @@
 			)
 		)
 	)
-	(footprint "ScottoKeebs_Components:Diode_DO-35"
+	(footprint "used-footprints:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "9fbbd4ea-0f8b-49f3-9800-fd40bf75e198")
 		(at 49.9075 52.7 180)
@@ -51811,7 +51811,7 @@
 			)
 		)
 	)
-	(footprint "ScottoKeebs_Components:Diode_DO-35"
+	(footprint "used-footprints:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "a2c2cfa6-695d-48c2-8aee-8890161349dd")
 		(at 104.7575 55.725 180)
@@ -52052,7 +52052,7 @@
 			)
 		)
 	)
-	(footprint "ScottoKeebs_Components:Diode_DO-35"
+	(footprint "used-footprints:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "af24d0c7-5527-4cdf-a73a-5249a10adb7a")
 		(at 66.6675 147.9 180)
@@ -52293,7 +52293,7 @@
 			)
 		)
 	)
-	(footprint "ScottoKeebs_Components:Diode_DO-35"
+	(footprint "used-footprints:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "b5da1984-2d3e-4f5f-8658-49ee26c498f6")
 		(at 85.7075 96.8 180)
@@ -52534,7 +52534,7 @@
 			)
 		)
 	)
-	(footprint "ScottoKeebs_Components:Diode_DO-35"
+	(footprint "used-footprints:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "b9e74f08-5ae1-4d47-a273-c48db5db62bf")
 		(at 144.2325 137.675 175)
@@ -52775,7 +52775,7 @@
 			)
 		)
 	)
-	(footprint "ScottoKeebs_Components:Diode_DO-35"
+	(footprint "used-footprints:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "bcd3cce1-9356-4b96-8061-8115d268d722")
 		(at 47.4525 147.9 180)
@@ -53016,7 +53016,7 @@
 			)
 		)
 	)
-	(footprint "ScottoKeebs_Components:Diode_DO-35"
+	(footprint "used-footprints:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "c02f674b-5201-4d03-b99c-806828d9df0d")
 		(at 123.8425 115.875 180)
@@ -53257,7 +53257,7 @@
 			)
 		)
 	)
-	(footprint "ScottoKeebs_Components:Diode_DO-35"
+	(footprint "used-footprints:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "c35c3a81-08ce-4e7f-a533-43dea7185fe9")
 		(at 142.8675 115.875 180)
@@ -53498,7 +53498,7 @@
 			)
 		)
 	)
-	(footprint "ScottoKeebs_Components:Diode_DO-35"
+	(footprint "used-footprints:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "d0280d06-ef58-462f-8cb1-ee1204387911")
 		(at 151.8725 39.675)
@@ -53739,7 +53739,7 @@
 			)
 		)
 	)
-	(footprint "ScottoKeebs_Components:Diode_DO-35"
+	(footprint "used-footprints:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "d492beb0-1215-481c-be34-e45420032ed4")
 		(at 123.7775 77.775 180)
@@ -53980,7 +53980,7 @@
 			)
 		)
 	)
-	(footprint "ScottoKeebs_Components:Diode_DO-35"
+	(footprint "used-footprints:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "e1c75a44-1ace-433e-bd0b-ea8d6cca39fd")
 		(at 85.6925 134.925 180)
@@ -54221,7 +54221,7 @@
 			)
 		)
 	)
-	(footprint "ScottoKeebs_Components:Diode_DO-35"
+	(footprint "used-footprints:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "e9210aa6-c2ad-4365-b8c1-d2f550bb97b3")
 		(at 66.6175 90.8 180)
@@ -54462,7 +54462,7 @@
 			)
 		)
 	)
-	(footprint "ScottoKeebs_Components:Diode_DO-35"
+	(footprint "used-footprints:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "ed2af4ae-7908-409d-a640-eda61b653ab5")
 		(at 104.7675 112.875 180)
@@ -54703,7 +54703,7 @@
 			)
 		)
 	)
-	(footprint "ScottoKeebs_Components:Diode_DO-35"
+	(footprint "used-footprints:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "f28d6622-8c82-44ed-a1cb-56f853d2e6f8")
 		(at 66.6675 128.85 180)
@@ -54944,7 +54944,7 @@
 			)
 		)
 	)
-	(footprint "ScottoKeebs_Components:Diode_DO-35"
+	(footprint "used-footprints:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "f29d4509-476c-4e41-8a34-541e817150a6")
 		(at 65.9575 109.825 180)
@@ -55185,7 +55185,7 @@
 			)
 		)
 	)
-	(footprint "ScottoKeebs_Components:Diode_DO-35"
+	(footprint "used-footprints:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "f52022f5-ba4c-4578-9afa-f783024e8afb")
 		(at 85.6925 77.775 180)
@@ -55426,7 +55426,7 @@
 			)
 		)
 	)
-	(footprint "ScottoKeebs_Components:Diode_DO-35"
+	(footprint "used-footprints:Diode_DO-35"
 		(layer "B.Cu")
 		(uuid "facc6e0d-61b1-4eab-86da-72025461464a")
 		(at 142.8425 96.825 180)
